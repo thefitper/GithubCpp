@@ -6,6 +6,9 @@
 int main()
 {
     std::cout << "Hello Github Cpp! Edit from Github web\n";
+    std::cout << "Boom";
+
+    return EXIT_SUCCESS;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
