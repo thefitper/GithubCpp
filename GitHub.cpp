@@ -6,7 +6,7 @@
 int main()
 {
     std::cout << "Hello Github Cpp! Edit from Github web\n";
-    std::cout << "Boom Boom";
+    std::cout << "Boom Boom Boom";
 
     return EXIT_SUCCESS;
 }
